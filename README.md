@@ -19,3 +19,5 @@ This license has the following features:
 - Requires distribution of source and modified source
 
 - Requires modifications to share this license
+
+- can be built and distributed with GPL code, but you can not use gpl code in your project.
