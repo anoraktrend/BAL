@@ -6,14 +6,14 @@ This License was made as a means of creating a more legible and up to date Artis
 
 This license has the following features:
 
--Copyleft
+- Copyleft
 
--No Attribution by default
+- No Attribution by default
 
--Free Mirroring
+- Free Mirroring
 
--Contributors listed in the license
+- Contributors listed in the license
 
--Requires distribution of source and modified source
+- Requires distribution of source and modified source
 
--Requires modifications to share this license
+- Requires modifications to share this license
