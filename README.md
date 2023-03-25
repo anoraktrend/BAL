@@ -1,4 +1,4 @@
-# The-Berkeley-Artistic-License
+# The Berkeley Artistic License
 The Berkeley Artistic License's GitHub.
 
 Current Version: BALV3
