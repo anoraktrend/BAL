@@ -1,14 +1,16 @@
 The Berkeley Artistic License
 Project:(project name here)
-Project developer:(developer or team name here)
+Project Developer:(developer or team name here)
+Original Project Name: (This and the following line may be deleted if not applicable)
+Original Project Developer: (This and the previous line may be deleted if not applicable)
 Contributors: (list of contributors and contributions separated by semicolons.)
 Standard Version: The project which is the basis for modified versions, also known as upstream.
-Modified Versions: versions of the source code distributed by the project that have been modified, which can be distributed as executables.
-Software refers to the project, which is a collection of files distributed by the Project Developer, the "Standard Version", and derivatives of that collection of files created through textual modification, the "Modified Version". 
+Modified Versions: versions of the source code distributed by the project that have been modified, which can be distributed as executables, downstream.
+The Software refers to the project, which is a collection of files distributed by the Project Developer, the "Standard Version", and derivatives of that collection of files created through modification of the source code, the "Modified Version". 
 
 1. You may make and give away verbatim copies of the source form of the Standard Version of this Software without restriction, provided that you duplicate all of the original copyright notices, this license, and associated disclaimers.
 
-2. You may apply bug fixes, portability fixes and other modifications from the Copyright Holder or altered source code to enable this software to work with modern tools, new hardware, new operating systems, etc. A Software modified in such a way shall still be considered the Standard Version.
+2. You may apply bug fixes, portability fixes and other modifications from the Copyright Holder or altered source code to enable this software to work with modern tools, new hardware, new operating systems, etc. A Software modified in such a way may still be considered the Standard Version.
 
 3. You may otherwise modify your copy of this Software in any way, provided that your modifications use this same license or do not distribute the resulting code. 
 
