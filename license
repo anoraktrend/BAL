@@ -2,7 +2,6 @@ The Better Attribution License
 I: Metadata: Please see the Metadata file for up-to-date metadata for this project. This is only the initial metadata as of the introduction of this license.
 Project: The Better Attribution License
 Project developer: Anoraktrend AKA Lucy Ada Randall
-Contributors: Lucy Ada Randall.
 
 II: Definitions
 Standard Version: The project which is the basis for modified versions, also known as upstream.
@@ -18,7 +17,7 @@ III: License Terms
 
 4. You may choose to add your name to the contributors list within the metadata file, to allow the Project Developer to credit you for your modifications in the Standard Version of the Software.
 
-5. You may distribute your modified copy of this Software in executable form, provided that you make it clear that your distribution of this code is modified, provide a modified copy of this license, and provide a method to obtain both the source of the Standard Version and the source of your Modified Version free of charge or undue hassle. You must modify your license to change the project and project developer, labeling your modified version as a the project, and moving any prior project developer to be the primary Contributor.
+5. You may distribute your modified copy of this Software in executable form, provided that you make it clear that your distribution of this code is modified, provide a modified copy of this license, and provide a method to obtain both the source of the Standard Version and the source of your Modified Version free of charge or undue hassle. You must modify your license to change the project and project developer, labeling your modified version as a the project and yourself as the project developer, and moving any prior project developer to be the primary Contributor within the metadata file.
 
 6. You may distribute this Software, with or without fee, provided that you do not advertise the Standard Version of this Software as a product of your own.
 
