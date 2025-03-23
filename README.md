@@ -1,4 +1,4 @@
-# The Berkeley Artistic License
+# The Better Attribution License
 The Better Attribution License's GitHub.
 
 Current Version: BALV5
