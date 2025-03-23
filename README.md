@@ -11,6 +11,6 @@ This license has the following features:
 
 - No Attribution by default
 
-- Contributors listed in the license itself 
+- Contributors listed in a Metadata file.
 
 The "license" file here is an example of it in use, this license is actually licensed under CC0.
