@@ -1,12 +1,12 @@
 The Better Attribution License
-I: Metadata
+I: Metadata: Please see the Metadata file for up-to-date metadata for this project. This is only the initial metadata as of the introduction of this license.
 Project:(project name here) 
 Project Developer:(developer or team name here)
-Contributors: (list of contributors and contributions separated by semicolons.)
+Contributors: (list of contributors and contributions separated by semicolons, if applicable.)
 
 II: Definitions
 Standard Version: The project which is the basis for modified versions, also known as upstream.
-Modified Versions: versions of the source code distributed by the project that have been modified, which can be distributed as executables, downstream.
+Modified Versions: Partial or whole versions of the source code distributed by the project that have been modified, downstream.
 The Software refers to the project, which is a collection of files distributed by the Project Developer, the "Standard Version", and derivatives of that collection of files created through modification of the source code, the "Modified Version".
 
 III: License Terms
@@ -18,7 +18,8 @@ III: License Terms
 
 4. You may choose to add your name to the contributors list within the metadata file, to allow the Project Developer to credit you for your modifications in the Standard Version of the Software.
 
-5. You may distribute your modified copy of this Software in executable form, provided that you make it clear that your distribution of this code is modified, provide a modified copy of this license, and provide a method to obtain both the source of the Standard Version and the source of your Modified Version free of charge or undue hassle. You must modify your license to change the project and project developer, labeling your modified version as a the project, and moving any prior project developer to be the primary Contributor.
+5. You may distribute your modified copy of this Software in executable form, provided that you make it clear that your distribution of this code is modified, provide a copy of this license modified only in the way(s) listed in the following sub-paragraphs, and provide a method to obtain both the source of the Standard Version and the source of your Modified Version free of charge or undue hassle.
+ a. You must modify your license to change the project and project developer, labeling your modified version as a the project, and moving any prior project developer to be the primary Contributor.
 
 6. You may distribute this Software, with or without fee, provided that you do not advertise the Standard Version of this Software as a product of your own.
 
