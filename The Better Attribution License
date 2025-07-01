@@ -16,13 +16,12 @@ Undue hassle, as mentioned in this license, means requirements to receive the so
 III: License Terms
 1. You may make and give away verbatim copies of the source form of the Standard Version of this Software without restriction, provided that you duplicate all of the original copyright notices, this license (including the Metadata file), and associated disclaimers.
 
-2. You may apply bug fixes, portability fixes and other modifications from the Project Developer or other developers (including yourself) to enable this software to work with modern tools, new hardware, new operating systems, etc. You may distribute software modified in such a way as the Standard Version, so long as you provide the source code of that modified software free of charge and undue hassle to purchasers or receivers of said Standard Version. This Standard Version must still be licensed under this license.
+2. You may apply bug fixes, portability fixes and other modifications from the Project Developer or other developers (including yourself) to enable this software to work with modern tools, new hardware, new operating systems, etc. You may distribute software modified in such a way as the Standard Version, so long as you provide the source code of that modified software free of charge and undue hassle to purchasers or receivers of said Standard Version under the terms of this license.
 
 3. You may choose to add your name to the contributors list within the metadata file, to allow the Project Developer to credit you for your modifications in the Standard Version of the Software.
 
 4. You may otherwise modify your copy of this Software in any way, including adding features and self-perceived optimizations of the source code, provided that your modifications use this license as modified by sub-paragraph 4a (this modified license). Any files that you modify and distribute, in source or binary form, must remain under this modified license. You may combine the Software with other code under more permissive licenses, provided that the combined work as a whole is licensed under this modifed license. This may be altered by any of the sub-paragraphs included below.
  4a. You must modify your license to change the project and project developer. Label your modified version as the project, and moving any prior project developer to be the primary Contributor.
- 4b. (Optional, at the discretion of the Project Developer): If this sub-paragraph is included, any Modified Version may be used, copied, modified, merged, published, distributed, sublicensed, and/or sold under any terms you choose, provided that you include the original copyright and attribution notices in all copies or substantial portions of the Modified Version.
 
 5. You may distribute this Software, with or without fee, provided that you do not advertise the Standard Version of this Software as a product of your own.
 
