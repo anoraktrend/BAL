@@ -20,8 +20,11 @@ III: License Terms
 
 3. You may choose to add your name to the contributors list within the metadata file, to allow the Project Developer to credit you for your modifications in the Standard Version of the Software.
 
-4. You may otherwise modify your copy of this Software in any way, including adding features and self-perceived optimizations of the source code, provided that your modifications use this license or you do not distribute the resulting code. You may distribute your Modified Version of this Software in executable form, provided that you make it clear that your distribution of this code is modified, provide a copy of this license modified only in the way(s) listed in the following sub-paragraphs, and provide a method to obtain both the source of the Standard Version and the source of your Modified Version free of charge and undue hassle (unless permitted in the following sub-paragraphs) to purchasers or receivers of said Modified Version.
+4. You may otherwise modify your copy of this Software in any way, including adding features and self-perceived optimizations of the source code, provided that your modifications use this license. Any files that you modify and distribute, in source or binary form, must remain under this license. You may combine the Software with other code under different licenses, provided that the combined work as a whole is licensed under this license.
+
  a. You must modify your license to change the project and project developer. Label your modified version as the project, and moving any prior project developer to be the primary Contributor.
+
+ b. (Optional, at the discretion of the Project Developer): If this sub-paragraph is included, any larger work or derivative work containing or based on the Software as a whole may be licensed in its entirety under another license. In this case, you may combine the Software with other code under a different license in a way that would allow the resulting work to be distributed under terms other than this license.
 
 5. You may distribute this Software, with or without fee, provided that you do not advertise the Standard Version of this Software as a product of your own.
 
